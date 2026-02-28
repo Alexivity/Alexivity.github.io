@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, ArbStray</rights>
   <subtitle>When you open the door in front of you , you will lose the way at your back. From beginning to the end , you have only one way to go.</subtitle>
   <title>ArbStrays blog</title>
-  <updated>2026-02-28T04:04:47.633Z</updated>
+  <updated>2026-02-28T09:03:07.517Z</updated>
+  <entry>
+    <author>
+      <name>ArbStray</name>
+    </author>
+    <category term="linux" scheme="http://example.com/tags/linux/"/>
+    <content>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git clone --branch master --depth 1 https://gh-proxy.org/https://github.com/nelvko/clash-for-linux-install.git \</span><br><span class="line">  &amp;&amp; cd clash-for-linux-install \</span><br><span class="line">  &amp;&amp; bash install.sh</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashsub add &lt;url&gt;</span><br><span class="line">//添加订阅</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashui</span><br><span class="line">//web控制台</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashsecret</span><br><span class="line">//获取密钥供web登录</span><br></pre></td></tr></table></figure>]]>
+    </content>
+    <id>http://example.com/2026/02/28/linux-clash-config/</id>
+    <link href="http://example.com/2026/02/28/linux-clash-config/"/>
+    <published>2026-02-28T08:55:40.000Z</published>
+    <summary>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
+    </summary>
+    <title>Linux上Clash配置</title>
+    <updated>2026-02-28T09:03:07.517Z</updated>
+  </entry>
   <entry>
     <author>
       <name>ArbStray</name>
