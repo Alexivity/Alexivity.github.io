@@ -1,5 +1,7 @@
+http://example.com/2026/02/28/butterfly-operate/
 http://example.com/2026/02/28/linux-clash-config/
 http://example.com/categories/index.html
 http://example.com/tags/index.html
 http://example.com/
+http://example.com/tags/butterfly/
 http://example.com/tags/linux/

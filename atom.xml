@@ -8,9 +8,26 @@
   <link href="http://example.com/" rel="alternate"/>
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, ArbStray</rights>
-  <subtitle>When you open the door in front of you , you will lose the way at your back. From beginning to the end , you have only one way to go.</subtitle>
+  <subtitle>从始至终你只有一条路走</subtitle>
   <title>ArbStrays blog</title>
-  <updated>2026-02-28T09:03:07.517Z</updated>
+  <updated>2026-02-28T09:27:13.112Z</updated>
+  <entry>
+    <author>
+      <name>ArbStray</name>
+    </author>
+    <category term="butterfly" scheme="http://example.com/tags/butterfly/"/>
+    <content>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo new post &quot;&lt;title&gt;&quot;</span><br><span class="line">//新文章</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean&amp;&amp;hexo g&amp;&amp;hexo d</span><br><span class="line">//更新部署</span><br></pre></td></tr></table></figure>]]>
+    </content>
+    <id>http://example.com/2026/02/28/butterfly-operate/</id>
+    <link href="http://example.com/2026/02/28/butterfly-operate/"/>
+    <published>2026-02-28T09:23:44.000Z</published>
+    <summary>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>]]>
+    </summary>
+    <title>butterfly操作</title>
+    <updated>2026-02-28T09:27:13.112Z</updated>
+  </entry>
   <entry>
     <author>
       <name>ArbStray</name>
