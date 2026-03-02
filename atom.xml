@@ -4,9 +4,9 @@
     <name>ArbStray</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <id>https://alexivity.github.io/Alexivity.github.io/</id>
-  <link href="https://alexivity.github.io/Alexivity.github.io/" rel="alternate"/>
-  <link href="https://alexivity.github.io/Alexivity.github.io/atom.xml" rel="self"/>
+  <id>https://alexivity.github.io/</id>
+  <link href="https://alexivity.github.io/" rel="alternate"/>
+  <link href="https://alexivity.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, ArbStray</rights>
   <subtitle>从始至终你只有一条路走</subtitle>
   <title>ArbStrays blog</title>
@@ -15,12 +15,12 @@
     <author>
       <name>ArbStray</name>
     </author>
-    <category term="git" scheme="https://alexivity.github.io/Alexivity.github.io/tags/git/"/>
+    <category term="git" scheme="https://alexivity.github.io/tags/git/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git branch -a</span><br><span class="line">git add .</span><br><span class="line">git reset --hard &lt;num&gt;</span><br></pre></td></tr></table></figure>]]>
     </content>
-    <id>https://alexivity.github.io/Alexivity.github.io/2026/03/02/git-operate/</id>
-    <link href="https://alexivity.github.io/Alexivity.github.io/2026/03/02/git-operate/"/>
+    <id>https://alexivity.github.io/2026/03/02/git-operate/</id>
+    <link href="https://alexivity.github.io/2026/03/02/git-operate/"/>
     <published>2026-03-02T03:02:10.000Z</published>
     <summary>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
@@ -32,12 +32,12 @@
     <author>
       <name>ArbStray</name>
     </author>
-    <category term="git" scheme="https://alexivity.github.io/Alexivity.github.io/tags/git/"/>
+    <category term="git" scheme="https://alexivity.github.io/tags/git/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.proxy http://&lt;ip&gt;:&lt;port&gt;</span><br><span class="line">git config --global https.proxy http://&lt;ip&gt;:&lt;port&gt;</span><br><span class="line">//设置代理</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br><span class="line">//清空代理</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --list</span><br><span class="line">//查看代理</span><br></pre></td></tr></table></figure>]]>
     </content>
-    <id>https://alexivity.github.io/Alexivity.github.io/2026/03/02/git-proxy-operate/</id>
-    <link href="https://alexivity.github.io/Alexivity.github.io/2026/03/02/git-proxy-operate/"/>
+    <id>https://alexivity.github.io/2026/03/02/git-proxy-operate/</id>
+    <link href="https://alexivity.github.io/2026/03/02/git-proxy-operate/"/>
     <published>2026-03-02T01:15:09.000Z</published>
     <summary>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
@@ -49,12 +49,12 @@
     <author>
       <name>ArbStray</name>
     </author>
-    <category term="butterfly" scheme="https://alexivity.github.io/Alexivity.github.io/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://alexivity.github.io/tags/butterfly/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo new post &quot;&lt;title&gt;&quot;</span><br><span class="line">//新文章</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean&amp;&amp;hexo g&amp;&amp;hexo d</span><br><span class="line">//更新部署</span><br></pre></td></tr></table></figure>]]>
     </content>
-    <id>https://alexivity.github.io/Alexivity.github.io/2026/02/28/butterfly-operate/</id>
-    <link href="https://alexivity.github.io/Alexivity.github.io/2026/02/28/butterfly-operate/"/>
+    <id>https://alexivity.github.io/2026/02/28/butterfly-operate/</id>
+    <link href="https://alexivity.github.io/2026/02/28/butterfly-operate/"/>
     <published>2026-02-28T09:23:44.000Z</published>
     <summary>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>]]>
@@ -66,12 +66,12 @@
     <author>
       <name>ArbStray</name>
     </author>
-    <category term="linux" scheme="https://alexivity.github.io/Alexivity.github.io/tags/linux/"/>
+    <category term="linux" scheme="https://alexivity.github.io/tags/linux/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git clone --branch master --depth 1 https://gh-proxy.org/https://github.com/nelvko/clash-for-linux-install.git \</span><br><span class="line">  &amp;&amp; cd clash-for-linux-install \</span><br><span class="line">  &amp;&amp; bash install.sh</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashsub add &lt;url&gt;</span><br><span class="line">//添加订阅</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashui</span><br><span class="line">//web控制台</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashsecret</span><br><span class="line">//获取密钥供web登录</span><br></pre></td></tr></table></figure>]]>
     </content>
-    <id>https://alexivity.github.io/Alexivity.github.io/2026/02/28/linux-clash-config/</id>
-    <link href="https://alexivity.github.io/Alexivity.github.io/2026/02/28/linux-clash-config/"/>
+    <id>https://alexivity.github.io/2026/02/28/linux-clash-config/</id>
+    <link href="https://alexivity.github.io/2026/02/28/linux-clash-config/"/>
     <published>2026-02-28T08:55:40.000Z</published>
     <summary>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
