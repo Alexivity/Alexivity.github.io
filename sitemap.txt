@@ -1,5 +1,4 @@
 http://example.com/2026/03/02/git-operate/
-http://example.com/source_data/link.json
 http://example.com/link/index.html
 http://example.com/2026/02/28/butterfly-operate/
 http://example.com/2026/02/28/linux-clash-config/
