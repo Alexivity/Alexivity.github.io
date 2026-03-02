@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, ArbStray</rights>
   <subtitle>从始至终你只有一条路走</subtitle>
   <title>ArbStrays blog</title>
-  <updated>2026-02-28T09:27:13.112Z</updated>
+  <updated>2026-03-02T01:18:40.227Z</updated>
+  <entry>
+    <author>
+      <name>ArbStray</name>
+    </author>
+    <category term="git" scheme="http://example.com/tags/git/"/>
+    <content>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.proxy http://&lt;ip&gt;:&lt;port&gt;</span><br><span class="line">git config --global https.proxy http://&lt;ip&gt;:&lt;port&gt;</span><br><span class="line">//设置代理</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br><span class="line">//清空代理</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --list</span><br><span class="line">//查看代理</span><br></pre></td></tr></table></figure>]]>
+    </content>
+    <id>http://example.com/2026/03/02/git-operate/</id>
+    <link href="http://example.com/2026/03/02/git-operate/"/>
+    <published>2026-03-02T01:15:09.000Z</published>
+    <summary>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
+    </summary>
+    <title>git_operate</title>
+    <updated>2026-03-02T01:18:40.227Z</updated>
+  </entry>
   <entry>
     <author>
       <name>ArbStray</name>
