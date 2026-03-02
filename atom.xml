@@ -10,11 +10,12 @@
   <rights>All rights reserved 2026, ArbStray</rights>
   <subtitle>从始至终你只有一条路走</subtitle>
   <title>ArbStrays blog</title>
-  <updated>2026-03-02T06:05:04.979Z</updated>
+  <updated>2026-03-02T08:37:27.524Z</updated>
   <entry>
     <author>
       <name>ArbStray</name>
     </author>
+    <category term="学习" scheme="https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     <category term="git" scheme="https://alexivity.github.io/tags/git/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git branch -a</span><br><span class="line">git add .</span><br><span class="line">git reset --hard &lt;num&gt;</span><br></pre></td></tr></table></figure>]]>
@@ -26,12 +27,13 @@
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
     </summary>
     <title>git基础操作</title>
-    <updated>2026-03-02T06:05:04.979Z</updated>
+    <updated>2026-03-02T08:37:27.524Z</updated>
   </entry>
   <entry>
     <author>
       <name>ArbStray</name>
     </author>
+    <category term="学习" scheme="https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     <category term="git" scheme="https://alexivity.github.io/tags/git/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.proxy http://&lt;ip&gt;:&lt;port&gt;</span><br><span class="line">git config --global https.proxy http://&lt;ip&gt;:&lt;port&gt;</span><br><span class="line">//设置代理</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br><span class="line">//清空代理</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --list</span><br><span class="line">//查看代理</span><br></pre></td></tr></table></figure>]]>
@@ -43,12 +45,13 @@
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
     </summary>
     <title>git网络代理设置</title>
-    <updated>2026-03-02T06:04:50.881Z</updated>
+    <updated>2026-03-02T08:37:34.154Z</updated>
   </entry>
   <entry>
     <author>
       <name>ArbStray</name>
     </author>
+    <category term="学习" scheme="https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     <category term="butterfly" scheme="https://alexivity.github.io/tags/butterfly/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo new post &quot;&lt;title&gt;&quot;</span><br><span class="line">//新文章</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean&amp;&amp;hexo g&amp;&amp;hexo d</span><br><span class="line">//更新部署</span><br></pre></td></tr></table></figure>]]>
@@ -60,13 +63,14 @@
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>]]>
     </summary>
     <title>butterfly操作</title>
-    <updated>2026-02-28T09:27:13.112Z</updated>
+    <updated>2026-03-02T08:36:25.645Z</updated>
   </entry>
   <entry>
     <author>
       <name>ArbStray</name>
     </author>
-    <category term="linux" scheme="https://alexivity.github.io/tags/linux/"/>
+    <category term="学习" scheme="https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="Linux" scheme="https://alexivity.github.io/tags/Linux/"/>
     <content>
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git clone --branch master --depth 1 https://gh-proxy.org/https://github.com/nelvko/clash-for-linux-install.git \</span><br><span class="line">  &amp;&amp; cd clash-for-linux-install \</span><br><span class="line">  &amp;&amp; bash install.sh</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashsub add &lt;url&gt;</span><br><span class="line">//添加订阅</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashui</span><br><span class="line">//web控制台</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">clashsecret</span><br><span class="line">//获取密钥供web登录</span><br></pre></td></tr></table></figure>]]>
     </content>
@@ -77,6 +81,6 @@
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
     </summary>
     <title>Linux上Clash配置</title>
-    <updated>2026-02-28T09:03:07.517Z</updated>
+    <updated>2026-03-02T08:37:38.989Z</updated>
   </entry>
 </feed>
