@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/2026/03/02/git-operate/</loc>
     
     <lastmod>2026-03-02</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2026/03/02/git-operate/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/2026/03/02/git-proxy-operate/</loc>
     
     <lastmod>2026-03-02</lastmod>
     
@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/2026/02/28/butterfly-operate/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/link/index.html</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexivity.github.io/Alexivity.github.io/2026/02/28/butterfly-operate/</loc>
     
     <lastmod>2026-02-28</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2026/02/28/linux-clash-config/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/2026/02/28/linux-clash-config/</loc>
     
     <lastmod>2026-02-28</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/categories/index.html</loc>
     
     <lastmod>2026-02-28</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/tags/index.html</loc>
     
     <lastmod>2026-02-28</lastmod>
     
@@ -57,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,21 +74,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/butterfly/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/tags/git/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/linux/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/tags/linux/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/git/</loc>
+    <loc>https://alexivity.github.io/Alexivity.github.io/tags/butterfly/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
