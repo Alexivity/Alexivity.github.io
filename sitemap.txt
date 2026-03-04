@@ -11,8 +11,8 @@ https://alexivity.github.io/link/index.html
 https://alexivity.github.io/tags/index.html
 https://alexivity.github.io/
 https://alexivity.github.io/tags/git/
-https://alexivity.github.io/tags/butterfly/
 https://alexivity.github.io/tags/Linux/
 https://alexivity.github.io/tags/skill/
-https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/
+https://alexivity.github.io/tags/butterfly/
 https://alexivity.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%A4%87%E4%BB%BD/
+https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/
