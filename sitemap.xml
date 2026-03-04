@@ -110,13 +110,6 @@
 
   
   <url>
-    <loc>https://alexivity.github.io/tags/butterfly/</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://alexivity.github.io/tags/git/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -124,7 +117,7 @@
   </url>
   
   <url>
-    <loc>https://alexivity.github.io/tags/skill/</loc>
+    <loc>https://alexivity.github.io/tags/butterfly/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -132,6 +125,13 @@
   
   <url>
     <loc>https://alexivity.github.io/tags/Linux/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexivity.github.io/tags/skill/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
