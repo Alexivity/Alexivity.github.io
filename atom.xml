@@ -10,7 +10,42 @@
   <rights>All rights reserved 2026, ArbStray</rights>
   <subtitle>从始至终你只有一条路走</subtitle>
   <title>ArbStrays blog</title>
-  <updated>2026-03-02T09:15:33.002Z</updated>
+  <updated>2026-03-04T01:44:28.999Z</updated>
+  <entry>
+    <author>
+      <name>ArbStray</name>
+    </author>
+    <category term="学习" scheme="https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="git" scheme="https://alexivity.github.io/tags/git/"/>
+    <content>
+      <![CDATA[<h3 id="第一步：更新远程仓库地址"><a href="#第一步：更新远程仓库地址" class="headerlink" title="第一步：更新远程仓库地址"></a>第一步：更新远程仓库地址</h3><p>确保你的 <code>origin</code> 指向的是新账号下的仓库地址：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote set-url origin https://github.com/新用户名/profinet.git</span><br></pre></td></tr></table></figure><h2 id="Gemini-说"><a href="#Gemini-说" class="headerlink" title="Gemini 说"></a>Gemini 说</h2><p>这就是问题的核心了！Git 还在尝试用你<strong>旧账号的凭据</strong>去访问新账号的仓库。GitHub 发现旧账号没有权限，为了安全起见，它会直接报错说“仓库不存在”（Repository not found）。</p><p>你需要执行以下 <strong>三步走</strong> 来彻底切换账号：</p><h3 id="第一步：更新远程仓库地址-1"><a href="#第一步：更新远程仓库地址-1" class="headerlink" title="第一步：更新远程仓库地址"></a>第一步：更新远程仓库地址</h3><p>确保你的 <code>origin</code> 指向的是新账号下的仓库地址：</p><p>Bash</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote set-url origin https://github.com/新用户名/profinet.git</span><br></pre></td></tr></table></figure><hr><h3 id="第二步：清理本地残留的旧账号信息（Windows-专用）"><a href="#第二步：清理本地残留的旧账号信息（Windows-专用）" class="headerlink" title="第二步：清理本地残留的旧账号信息（Windows 专用）"></a>第二步：清理本地残留的旧账号信息（Windows 专用）</h3><p>​由于你在 Windows 目录下，系统会自动帮你记住旧账号。你需要手动删掉它：</p><ol><li><p>按下键盘上的 <strong>Win + S</strong>，搜索 <strong>“凭据管理器”</strong> (Credential Manager)。</p></li><li><p>选择 <strong>“Windows 凭据”</strong>。</p></li><li><p>在“普通凭据”列表中找到所有包含 <strong><code>git:https://github.com</code></strong> 的条目。</p></li><li><p>点击展开，选择 <strong>“删除”</strong>。</p><h3 id="第三步：重新推送并登录"><a href="#第三步：重新推送并登录" class="headerlink" title="第三步：重新推送并登录"></a>第三步：重新推送并登录</h3><h3 id="现在执行推送命令："><a href="#现在执行推送命令：" class="headerlink" title="现在执行推送命令："></a>现在执行推送命令：</h3></li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push -u origin main</span><br></pre></td></tr></table></figure>]]>
+    </content>
+    <id>https://alexivity.github.io/2026/03/04/SetGitUser/</id>
+    <link href="https://alexivity.github.io/2026/03/04/SetGitUser/"/>
+    <published>2026-03-04T01:36:59.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="第一步：更新远程仓库地址"><a href="#第一步：更新远程仓库地址" class="headerlink" title="第一步：更新远程仓库地址"></a>第一步：更新远程仓库地址</h3><p>确保你的 <code>origin</code> 指向的是新]]>
+    </summary>
+    <title>修改Git连接的Github用户</title>
+    <updated>2026-03-04T01:44:28.999Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>ArbStray</name>
+    </author>
+    <category term="skill" scheme="https://alexivity.github.io/tags/skill/"/>
+    <content>
+      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&quot;&lt;content&gt;&quot; //精准匹配</span><br><span class="line">site:&lt;域名&gt; &lt;content&gt; //特定网站匹配</span><br><span class="line">&lt;content&gt; -&lt;excludeContent&gt; //排除特定内容</span><br></pre></td></tr></table></figure>]]>
+    </content>
+    <id>https://alexivity.github.io/2026/03/03/search-skills/</id>
+    <link href="https://alexivity.github.io/2026/03/03/search-skills/"/>
+    <published>2026-03-03T06:30:19.000Z</published>
+    <summary>
+      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span c]]>
+    </summary>
+    <title>高效搜索</title>
+    <updated>2026-03-03T06:36:21.919Z</updated>
+  </entry>
   <entry>
     <author>
       <name>ArbStray</name>
@@ -33,7 +68,7 @@
     <category term="学习" scheme="https://alexivity.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     <category term="git" scheme="https://alexivity.github.io/tags/git/"/>
     <content>
-      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git branch -a</span><br><span class="line">git add .</span><br><span class="line">git reset --hard &lt;num&gt;</span><br></pre></td></tr></table></figure>]]>
+      <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin &lt;repoUrl&gt;//连接到远程仓库</span><br><span class="line">git push -u origin main 把main分支推送到origin</span><br><span class="line">git branch -a</span><br><span class="line">git add .</span><br><span class="line">git reset --hard &lt;num&gt;</span><br></pre></td></tr></table></figure>]]>
     </content>
     <id>https://alexivity.github.io/2026/03/02/git-operate/</id>
     <link href="https://alexivity.github.io/2026/03/02/git-operate/"/>
@@ -42,7 +77,7 @@
       <![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class]]>
     </summary>
     <title>git基础操作</title>
-    <updated>2026-03-02T08:37:27.524Z</updated>
+    <updated>2026-03-04T01:36:33.846Z</updated>
   </entry>
   <entry>
     <author>
